@@ -3,7 +3,7 @@ package tij.chapter3;
 public class Overload {
     public static void main(String[] args) {
         Overload overload = new Overload();
-        byte c = 1;
+        byte c = 121;
         overload.f(c);
         overload.f(c);
         overload.f(c);
